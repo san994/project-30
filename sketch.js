@@ -4,20 +4,6 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 const Body = Matter.Body;
 
-var block1,block2,block3,block4,block5,block6,block7,block8;
-var block9,block10,block11,block12,block13,block14;
-var block15,block16,block17,block18;
-var block19,block20,
-
-var block21,block22,block23,block24,block25,block26;
-var block27,block28,block29,block30;
-var block31,block32;
-
-var polygon;
-
-var platform1,platform2,ground;
-
-var sling;
 
 function preload()
 {
